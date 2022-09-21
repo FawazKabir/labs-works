@@ -1,0 +1,7 @@
+C:\Users\izi89\Desktop\шарп\LR_2\bin\Debug\LR_2.exe.config
+C:\Users\izi89\Desktop\шарп\LR_2\bin\Debug\LR_2.exe
+C:\Users\izi89\Desktop\шарп\LR_2\bin\Debug\LR_2.pdb
+C:\Users\izi89\Desktop\шарп\LR_2\obj\Debug\LR_2.csprojAssemblyReference.cache
+C:\Users\izi89\Desktop\шарп\LR_2\obj\Debug\LR_2.csproj.CoreCompileInputs.cache
+C:\Users\izi89\Desktop\шарп\LR_2\obj\Debug\LR_2.exe
+C:\Users\izi89\Desktop\шарп\LR_2\obj\Debug\LR_2.pdb
